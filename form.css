@@ -1,0 +1,14 @@
+.form{
+    background-color: rgb(243, 171, 14);
+    width: 600px;
+    height: 300px;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+    border: 1px solid rgb(33, 25, 25);
+    border-radius: 10px;
+    
+}
+.youremail,.pass,.lname,.fname{
+    margin-left:12px;
+}
