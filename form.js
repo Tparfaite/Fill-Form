@@ -79,7 +79,7 @@ button.addEventListener("click",function(e){
     let fform=new Myform(fname.value,lname.value,yemail.value,pass.value);
     for(let id in fform){console.log(`${id}:${fform[id]}`);}
 
-    // console.log(`the first name is ${fform.fname}`);
+    console.log(`the first name is ${fform.fname}`);
     fname.value=""; lname.value="";yemail.value="";pass.value="";
 
     
